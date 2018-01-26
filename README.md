@@ -2,7 +2,7 @@
 
 This is a utility repo to make it easy to create, mount, and unmount veracrypt volumes on Mac. Support for Docker is ongoing.
 
-## Mac features:
+## Mac feature list:
   - [x] Create Normal Volume
   - [x] Create Hidden Volume
   - [x] Mount Normal Volume
@@ -10,7 +10,7 @@ This is a utility repo to make it easy to create, mount, and unmount veracrypt v
   - [x] Unmount Normal Volume
   - [x] Unmount Hidden Volume
 
-## Docker features:
+## Docker feature list:
   - [x] Create Normal Volume
   - [x] Create Hidden Volume
   - [ ] Mount Normal Volume
